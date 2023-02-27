@@ -1,4 +1,4 @@
-## Here's an example program in Swift that calculates a person's age and the number of days until their next birthday:
+## Here's an example program in Kotlin that calculates a person's age and the number of days until their next birthday:
 
 ## This program will prompt the user for their date of birth, and then it will calculate current age, the day of the week you were born on, and the number of days until your next birthday.
 
